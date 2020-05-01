@@ -10,6 +10,8 @@
  * Email: thk170000@utdallas.edu
  * Date: 4/30/2020
  * 
+ * For cs3377.501
+ *
  * Description:
  * 
  * Added code to input a .bin file and output the information in the CDK matrix. Also adjusted MATRIX_WIDTH and BOX_WIDTH.

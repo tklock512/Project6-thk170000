@@ -6,6 +6,8 @@
  * Version 1.0
  * Copyright 2020, All Rights Reserved
  *
+ * For CS3377.501
+ *
  * Description:
  *
  * Reads through a .bin file to give information to CDK.

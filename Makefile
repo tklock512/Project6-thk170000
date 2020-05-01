@@ -5,6 +5,8 @@
 # Version: 1.0
 # Copyright 2020, All Rights Reserved
 #
+# For CS3377.501
+#
 # Description: 
 #
 # Makefile for Program6, complies CDK code
